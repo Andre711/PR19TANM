@@ -16,9 +16,11 @@ Za temo seminarske naloge smo izbrali terorizem po svetu. Osredotočilo se bomo 
 
   •	Število žrtev po celinah sveta
 
+ •	Analize podvrst napadov
+ 
+ •	Število žrtev po celinah sveta
 
-
-
+ •	Tarče napadov
 
 OPIS PODATKOV
 
