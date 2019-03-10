@@ -1,4 +1,5 @@
 OPIS PROBLEMA
+
 Za temo seminarske naloge smo izbrali terorizem po svetu. Osredotočilo se bomo predvsem na probleme:
 
 • V katerih letih je bilo največ terorističnih napadov
