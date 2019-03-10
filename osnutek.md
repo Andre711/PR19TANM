@@ -2,19 +2,19 @@ OPIS PROBLEMA
 
 Za temo seminarske naloge smo izbrali terorizem po svetu. Osredotočilo se bomo predvsem na probleme:
 
-• V katerih letih je bilo največ terorističnih napadov
+  • V katerih letih je bilo največ terorističnih napadov
 
-•	V katerih mesecih (letnih časih) so teroristični napadi najbolj priljubljeni
+  •	V katerih mesecih (letnih časih) so teroristični napadi najbolj priljubljeni
 
-•	Za kakšno vrsto terorističnega napada se napadalci najraje odločijo
+  •	Za kakšno vrsto terorističnega napada se napadalci najraje odločijo
 
-•	Katera država, mesto je bila največkrat žrtev terorističnega napada
+  •	Katera država, mesto je bila največkrat žrtev terorističnega napada
 
-•	Kakšne vrste orožja so po navadi uporabili za napad
+  •	Kakšne vrste orožja so po navadi uporabili za napad
 
-•	Katere skupine so najbolj delujoče
+  •	Katere skupine so najbolj delujoče
 
-•	Število žrtev po celinah sveta
+  •	Število žrtev po celinah sveta
 
 
 
