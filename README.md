@@ -74,6 +74,11 @@ Na tem grafu, je večje število napadov na določenem območju predstavljeno z 
 Opazimo kar nekaj kriznih območij. Še posebej na območju srednjega vzhoda.
 	![zemljevid napadov](pictures/graf5.png)
 
+Za napovedovanje število napadov za naslednjih 5 let smo podatke razdelili na testno in učno množico 
+in sicer v razmerju 75% - 25%. Naš model je napovedal, da naj bi število napadov v letošnjem letu še malo padlo, naslednja
+leta pa bo začelo ponovno naraščati. Zavedamo pa se da je napovedovanje število napadov zelo težko, saj je odvisno od različnih
+dejavnikov.
+	![napoved_napadov](pictures/graf6.png)
 
 ## Glavne začetne ugotovitve
 
